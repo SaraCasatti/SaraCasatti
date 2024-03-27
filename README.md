@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/SaraCasatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraCasatti&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraCasatti&show_icons=true&theme=tokyonight&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCasatti&layout=donut&langs_count=16&theme=tokyonight"/>
 </div>
    
